@@ -14,7 +14,6 @@
  * 3.修改价格判断条件
  */
 
-
 (function() {
     'use strict';
 
